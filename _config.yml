@@ -17,11 +17,11 @@ enable_last_update: true
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=q-NFxGIAAAAJ&hl=en
+# google_scholar: https://scholar.google.com/citations?user=q-NFxGIAAAAJ&hl=en
 cv_link: assets/files/CV.pdf
 github_link: https://github.com/TravisCao
-# linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
+linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/TheoMa58523651
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
